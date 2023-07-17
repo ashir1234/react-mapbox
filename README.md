@@ -51,10 +51,7 @@ Contributions to this project are welcome. To contribute, please follow these st
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [Your Name](mailto:ashirharoon15@gmail.com).
+For any inquiries or questions, please contact [Ashir Haroon](mailto:ashirharoon15@gmail.com).
